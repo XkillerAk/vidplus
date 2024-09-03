@@ -1,0 +1,4 @@
+textblob
+flask
+google-api-python-client
+gunicorn
